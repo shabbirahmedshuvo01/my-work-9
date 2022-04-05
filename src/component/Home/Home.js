@@ -37,9 +37,12 @@ const Home = () => {
                 {
                     reviews.map(review => <Review key={review.id} review={review}></Review>)
                 }
-                <Link to={"/reviews"}>
-                    <button className='btn-work'>Review</button>
-                </Link>
+                <br />
+                <div>
+                    <Link to={"/reviews"}>
+                        <button className='btn-work'>Review</button>
+                    </Link>
+                </div>
             </div>
         </div>
     );
