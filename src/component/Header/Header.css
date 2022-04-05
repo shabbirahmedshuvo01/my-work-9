@@ -1,0 +1,11 @@
+.work-head {
+    height: 70px;
+    background-color: aqua;
+    justify-content: space-between;
+    justify-items: center;
+}
+
+.work-head a {
+    text-decoration: none;
+    margin-left: 20px;
+}
