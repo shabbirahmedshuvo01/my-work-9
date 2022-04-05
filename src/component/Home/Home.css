@@ -11,3 +11,9 @@
     height: 400px;
     width: 400px;
 }
+
+.visit-work {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

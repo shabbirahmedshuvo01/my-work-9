@@ -2,31 +2,37 @@
     {
         "id": 1,
         "name": "Harun",
-        "comment": "their laptops are of great quality and can compete with almost any other famous laptop brand in the market. Asus's main focus has been to provide budget laptop buyers options that give them that performance they're looking for at an affordable price."
+        "comment": "their laptops are of great quality and can compete with almost any other famous laptop brand in the market. Asus's main focus has been to provide budget laptop buyers options that give them that performance they're looking for at an affordable price.",
+        "ratings": 3
     },
     {
         "id": 2,
         "name": "Barun",
-        "comment": "ASUS is a good and reputable brand, the brand is well-known for its optimized performance with the lowest computer specifications."
+        "comment": "ASUS is a good and reputable brand, the brand is well-known for its optimized performance with the lowest computer specifications.",
+        "ratings": 5
     },
     {
         "id": 3,
         "name": "Darun",
-        "comment": "So it's safe to say that the average lifespan for an ASUS laptop is 3-5 years. However, if you take good care of your laptop, you will easily see it last well longer. It's not uncommon for ASUS laptops to last up to 10 years."
+        "comment": "So it's safe to say that the average lifespan for an ASUS laptop is 3-5 years. However, if you take good care of your laptop, you will easily see it last well longer. It's not uncommon for ASUS laptops to last up to 10 years.",
+        "ratings": 4
     },
     {
         "id": 4,
         "name": "Bosir",
-        "comment": "Generally, ASUS laptops win the battle of gaming laptops, while Dell machines lead when it comes to business laptops. ASUS focuses on laptops' performance and graphics, which makes their laptops ideal for gaming, streaming, and graphics. They are better for gamers and intensive tasks."
+        "comment": "Generally, ASUS laptops win the battle of gaming laptops, while Dell machines lead when it comes to business laptops. ASUS focuses on laptops' performance and graphics, which makes their laptops ideal for gaming, streaming, and graphics. They are better for gamers and intensive tasks.",
+        "ratings": 3
     },
     {
         "id": 5,
         "name": "Roshid",
-        "comment": "This is primarily due to the quality of the laptop, which tends to be better than Acer according to most users. Plus, Asus gives the best customer service experience too."
+        "comment": "This is primarily due to the quality of the laptop, which tends to be better than Acer according to most users. Plus, Asus gives the best customer service experience too.",
+        "ratings": 3
     },
     {
         "id": 6,
         "name": "LAl Miah",
-        "comment": "A Asus laptop can get hot and overheat because of dust build-up on the fans, a unacceptable operating environment, or using outdated BIOS."
+        "comment": "A Asus laptop can get hot and overheat because of dust build-up on the fans, a unacceptable operating environment, or using outdated BIOS.",
+        "ratings": 3
     }
 ]
