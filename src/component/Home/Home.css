@@ -18,6 +18,9 @@
     grid-template-columns: repeat(3, 1fr);
 }
 
-.hide-work {
-    display: none;
+.btn-work {
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+    color: cornsilk;
 }

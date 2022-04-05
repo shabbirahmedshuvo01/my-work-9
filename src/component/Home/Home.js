@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './Home.css';
 import image from '../images/01.jpg'
 import Review from '../Review/Review';
+import { Link } from 'react-router-dom';
 
 
 const Home = () => {
@@ -12,6 +13,8 @@ const Home = () => {
             .then(res => res.json())
             .then(data => setReview(data))
     }, []);
+
+
     return (
         <div>
             <div className='container'>
@@ -34,6 +37,9 @@ const Home = () => {
                 {
                     reviews.map(review => <Review key={review.id} review={review}></Review>)
                 }
+                <Link to={"/reviews"}>
+                    <button className='btn-work'>Review</button>
+                </Link>
             </div>
         </div>
     );
